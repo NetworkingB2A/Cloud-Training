@@ -77,3 +77,57 @@ Azure services broken down by Main catagories
 - AI
 - DevOps
   - CI/CD
+
+Different types of cloud
+  - Public
+    - No Capital expenditures to scale up.
+    - Applications can be quickly provisioned and deprovisioned.
+    - Organizations pay only for what they use.
+  - Private
+    - Hardware must be purchased for start-up and maintenance.
+    - Organizations have complete control over resources and security.
+    - Organizations are responsible for hardware maintenance and updates.
+  - Hybrid
+    - Provides the most flexibility.
+    - Organizations determine where to run their applications.
+    - Organizations control security, compliance, or legal requirements.
+
+What are some cloud computing advantages?
+- High availability
+- Scalability
+  - Vertically - increase compute capacity by adding RAM or CPU.
+  - Horizontally - adding VMs.  
+- Elasticity
+- Agility
+- Geo-distribution
+- Disaster recovery
+
+Capital expenses vs operating expenses
+- Capital expenditures (CapEx)
+  - This is more project based
+  - or this is where you are given the cash up front or the availability of the cash.
+- Operational expenditures (OpEx)
+  - this is the concept of you are bill for a service and you pay that service once you are billed.
+  - Employees are more operational expense, where contractors are more capital expense.
+  - This is where cloud computing fits in.
+
+Cloud service modules
+- IaaS
+- PaaS
+- SaaS  
+Here is a good break down of the services  
+![Picture of service breakdown](../images/Cloud%20services.png)
+
+Azure organization structure
+- Management groups
+  - These groups help you mange access, policy, and compliance for multiple subscriptions
+- Subscription
+  - Groups together user accounts and the resources that have been created by those users.
+  - used to manage cost and access to resource group and resources
+- Resource group
+  - Resources are combinded into resource groups, which act like a logical container into which azure resources like web apps, databases and storage accounts are deployed and managed.
+- Resources
+  - instances of services that you create, like virtual machines, storage, or sql databases.  
+  Here is a good breakdown of the organization structure.
+
+![Picture of Azure org structure](../images/Azure%20org%20structure.png)
