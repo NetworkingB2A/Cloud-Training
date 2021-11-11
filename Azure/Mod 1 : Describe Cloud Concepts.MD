@@ -1,3 +1,6 @@
+NOTE: if anyone is reading this I left out some of the objectives because i knew them well enough I saw no value in taking notes.
+
+
 what is cloud computing?
 The ability to rent compute and storage from someone else's datacenter.
 compute power
@@ -49,8 +52,7 @@ Users make request to the "orchestrator" via the web api
 the Web api can be called by many tools, including the web interface of the azure portal
 When a user wants a VM, the request is sent to the orchestrator, the orchestrator picks the best server rack, the fabric controller creates the VM
 
-What is the Azure Marketplace?
-Azure marketplace helps connect users with Microsoft partners, independent software vendors ans startups that are offering their solution ans services, which are optimized to run on Azure. 
+
 
 Azure services broken down by Main catagories
 - Compute
@@ -98,9 +100,14 @@ What are some cloud computing advantages?
   - Vertically - increase compute capacity by adding RAM or CPU.
   - Horizontally - adding VMs.  
 - Elasticity
+- Global reach
 - Agility
 - Geo-distribution
 - Disaster recovery
+- Fault Tolerance
+- Customer latency capabilities
+- Predictive cost considerations
+- Security
 
 Capital expenses vs operating expenses
 - Capital expenditures (CapEx)
@@ -114,9 +121,16 @@ Capital expenses vs operating expenses
 Cloud service modules
 - IaaS
 - PaaS
-- SaaS  
+- SaaS
+- Serverless computing  
 Here is a good break down of the services  
 ![Picture of service breakdown](../images/Cloud%20services.png)
+
+
+What is Serverless computing
+- With serverless computing applications, the cloud service provider automatically provisions, scales and manges the infrastructure required to run the code.
+  - Azure functions is code running your service and not the underlying platform or infrastructure. It creates infrastructure based on an event.
+  - Azure logic apps is a cloud service that helps you automate and orchestrate tasks, business processes and workflows when you need to integrate apps, data systems, and services.
 
 Azure organization structure
 - Management groups
