@@ -2,7 +2,7 @@ NOTE: if anyone is reading this I left out some of the objectives because i knew
 
 
 what is cloud computing?
-The ability to rent compute and storage from someone else's datacenter.
+The ability to rent compute and storage from someone else's data center.
 compute power
 - CPU
 - Ram
