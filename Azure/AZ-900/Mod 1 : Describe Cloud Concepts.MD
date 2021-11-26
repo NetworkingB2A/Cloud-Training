@@ -124,7 +124,7 @@ Cloud service modules
 - SaaS
 - Serverless computing  
 Here is a good break down of the services  
-![Picture of service breakdown](../images/Cloud%20services.png)
+![Picture of service breakdown](../../images/Cloud%20services.png)
 
 
 What is Serverless computing
@@ -144,4 +144,4 @@ Azure organization structure
   - instances of services that you create, like virtual machines, storage, or sql databases.  
   Here is a good breakdown of the organization structure.
 
-![Picture of Azure org structure](../images/Azure%20org%20structure.png)
+![Picture of Azure org structure](../../images/Azure%20org%20structure.png)

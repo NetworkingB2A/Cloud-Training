@@ -128,7 +128,7 @@ Management Groups
 - 10,000 management groups can be supported in a single directory.
 - A management group tree can support up to six levels of depth.
 
-![Picture of Azure Management Groups](../images/Managment-group.png)
+![Picture of Azure Management Groups](../../images/Management-group.png)
 
 What is the Azure Marketplace?
 Azure marketplace helps connect users with Microsoft partners, independent software vendors ans startups that are offering their solution ans services, which are optimized to run on Azure. 

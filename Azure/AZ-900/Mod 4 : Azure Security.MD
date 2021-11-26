@@ -3,12 +3,12 @@ NOTE: if anyone is reading this I left out some of the objectives because i knew
 
 ### Azure Security Center
 Azure security center is a monitoring service that provides threat protection across both Azure and on-prem data centers.
-.- Provides security recommendations.
-.- Detect and block malware.
-.- Analyze and identify potential attacks.
-.- Just in time access control for ports.
-.Capabilities
-.- Policy Compliance
+- Provides security recommendations.
+- Detect and block malware.
+- Analyze and identify potential attacks.
+- Just in time access control for ports.
+Capabilities
+- Policy Compliance
   - Run policies across management groups, subscriptions or tenants.
 - Continuous Assessments
   - Assess new and deployed resources to ensure that they are configured properly.
