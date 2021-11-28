@@ -2,7 +2,7 @@ NOTE: if anyone is reading this I left out some of the objectives because i knew
 
 What are Azure Architectural Components
 
-![Picture of Region logic](../images/GeoRegionDataCenter.png)
+![Picture of Region logic](../../images/GeoRegionDataCenter.png)
 - Regions and availability zones
   - Regions
     - Regions are made up of one or more data centers in close proximity.
@@ -26,7 +26,7 @@ What are Azure Architectural Components
       - Connected through private fiber-optic networks.
     
 
-![Picture of Region Pairs](../images/region-pairs.png)
+![Picture of Region Pairs](../../images/region-pairs.png)
 
 - Subscriptions and resource groups
 
@@ -113,7 +113,7 @@ Resource group
 Azure resource manager
 - The Azure resource manager (ARM) provides a management layer that enables you to create, update, and delete resource in your Azure subscription. 
 
-![Picture of Azure resource manager](../images/ARM.png)
+![Picture of Azure resource manager](../../images/ARM.png)
 
 Azure Subscriptions
 - An Azure subscription provides you with authenticated and authorized access to Azure accounts.

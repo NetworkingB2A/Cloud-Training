@@ -46,7 +46,7 @@ Azure preview program
 - Public preview: all Azure customers can evaluate the new features
 - Generally available (GA): after public preview is completed, all customers can use feature, and region availability will vary. 
 Monitoring services and feature updates
-- Azure updtes provides info about the Azure product, services and features, in addition to product roadmaps and availability.
+- Azure updates provides info about the Azure product, services and features, in addition to product roadmaps and availability.
 - view details about all azure updates and their status.
 - Browse and search for updates.
 - Subscribe to azure updates notifications by RSS.
