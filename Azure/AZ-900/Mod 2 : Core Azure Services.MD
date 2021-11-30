@@ -62,6 +62,9 @@ What are the core azure resources
   - Azure express route
     - Extends on-premises networks into Azure over a private connection that is facilitated by a connectivity provider.
 - Storage
+  - GRS VS LRS
+    - LRS means the data will only be housed in its own data center and will only be backed up in that data center
+    - GRS means the data will be replicated in a different data center. adding a layer of protection for your data 
   - types of storage
     - Container storage (blob)
       - Optimized for storing massive amounts of unstructured data, such as text or binary data.
